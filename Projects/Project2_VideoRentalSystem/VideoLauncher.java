@@ -1,4 +1,4 @@
-package Project2_VideoRentalSystem;
+package Projects.Project2_VideoRentalSystem;
 
 import java.util.Scanner;
 
