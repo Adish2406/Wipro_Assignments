@@ -1,3 +1,5 @@
+package Projects.Project1_EmployeeInfo;
+
 class Project1 {
     public static void main(String[] args) {
         if (args.length == 0) {
