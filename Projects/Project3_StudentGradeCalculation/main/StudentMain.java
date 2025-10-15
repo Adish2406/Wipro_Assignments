@@ -1,8 +1,8 @@
-package Project3_StudentGradeCalculation.main;
+package Projects.Project3_StudentGradeCalculation.main;
 
-import Project3_StudentGradeCalculation.bean.Student;
-import Project3_StudentGradeCalculation.exception.*;
-import Project3_StudentGradeCalculation.service.*;
+import Projects.Project3_StudentGradeCalculation.bean.Student;
+import Projects.Project3_StudentGradeCalculation.exception.*;
+import Projects.Project3_StudentGradeCalculation.service.*;
 
 public class StudentMain {
     static Student data[] = new Student[4];

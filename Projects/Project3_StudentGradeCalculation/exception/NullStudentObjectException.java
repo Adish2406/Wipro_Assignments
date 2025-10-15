@@ -1,4 +1,4 @@
-package Project3_StudentGradeCalculation.exception;
+package Projects.Project3_StudentGradeCalculation.exception;
 
 public class NullStudentObjectException extends Exception {
     public String toString() {

@@ -1,6 +1,6 @@
-package Project3_StudentGradeCalculation.service;
+package Projects.Project3_StudentGradeCalculation.service;
 
-import Project3_StudentGradeCalculation.bean.Student;
+import Projects.Project3_StudentGradeCalculation.bean.Student;
 
 public class StudentService {
 

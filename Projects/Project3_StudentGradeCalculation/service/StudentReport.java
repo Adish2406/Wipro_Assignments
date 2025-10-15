@@ -1,7 +1,7 @@
-package Project3_StudentGradeCalculation.service;
+package Projects.Project3_StudentGradeCalculation.service;
 
-import Project3_StudentGradeCalculation.bean.Student;
-import Project3_StudentGradeCalculation.exception.*;
+import Projects.Project3_StudentGradeCalculation.bean.Student;
+import Projects.Project3_StudentGradeCalculation.exception.*;
 
 public class StudentReport {
 

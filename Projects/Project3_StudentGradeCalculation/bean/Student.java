@@ -1,4 +1,4 @@
-package Project3_StudentGradeCalculation.bean;
+package Projects.Project3_StudentGradeCalculation.bean;
 
 public class Student {
     private String name;
