@@ -1,4 +1,4 @@
-package OnlineAuctionApp.src;
+package Projects.OnlineAuctionApp.src;
 
 public class AuctionItemBean {
     private String itemName;

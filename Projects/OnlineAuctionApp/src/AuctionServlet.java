@@ -1,4 +1,4 @@
-package OnlineAuctionApp.src;
+package Projects.OnlineAuctionApp.src;
 
 import java.io.*;
 import javax.servlet.*;
